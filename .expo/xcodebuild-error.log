@@ -1,0 +1,3 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:tvOS Simulator, id:5D50B1D2-5C86-40A2-B0C3-D7910CE2EA18, OS:17.4, name:Apple TV }
+{ platform:tvOS Simulator, id:5D50B1D2-5C86-40A2-B0C3-D7910CE2EA18, OS:17.4, name:Apple TV }
